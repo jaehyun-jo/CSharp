@@ -1,0 +1,7 @@
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\bin\Debug\namespace_StringConcat.exe.config
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\bin\Debug\namespace_StringConcat.exe
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\bin\Debug\namespace_StringConcat.pdb
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\obj\Debug\namespace_StringConcat.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\obj\Debug\namespace_StringConcat.csproj.CoreCompileInputs.cache
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\obj\Debug\namespace_StringConcat.exe
+C:\Users\조재현\source\repos\namespace_StringConcat\namespace_StringConcat\obj\Debug\namespace_StringConcat.pdb
